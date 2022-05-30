@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Njideka
+- 👋 Hi, I’m @Njidekaa
 - 👀 I’m interested in pursing a new career path.
 - 🌱 I’m currently learning frontend web development. Started with HTML.
 - 💞️ I’m looking to collaborate on any project that can broaden my horizon.
